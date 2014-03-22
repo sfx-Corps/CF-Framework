@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,500|Covered+By+Your+Grace|Titan+One);
+
+body{
+	background: #4f85bb;
+}
+
 header{ 
 	width:70%;
 	margin-left:auto; 
@@ -5,8 +11,28 @@ header{
 }
 
 h1 {
-	font-family:'Ubuntu Mono'; 
+	margin-top:100px;
+	line-height:80px;
+	font-family:'Titan One'; 
 	font-size:80px; 
 }
 
-h1 small{ color:orange; }
+h1 span {
+	color:white;
+}
+
+
+section{
+	background-color:rgba(0,0,200,0.1);
+	border-radius:3px;
+	padding:10px;
+	width:70%;
+	margin:100px auto auto auto;
+}
+
+.redirect{
+	margin-left:80%;
+	box-shadow:1px 2px 3px rgb(50,50,50);
+	font-size:30px;
+	font-family: 'Alegreya Sans', sans-serif;
+}
