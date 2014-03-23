@@ -1,0 +1,5 @@
+$('.redirect').click( function() {
+
+	$('header')
+
+});
