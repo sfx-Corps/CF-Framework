@@ -9,9 +9,11 @@ $('.redirect').click( function() {
 						function(){				
 							$('#favico').toggleClass("pull-right");
 							$('#favico').css("width","50px");
-							$('#favico').animate({margin:'-220px auto auto 400px'},
+							$('#favico').animate({margin:'-220px auto auto 430px'},
 								function() {								//================ 3rd callback
 									$('body').css('background-color','white');
+									$('#head-bar').css('color','black');
+									$('#head-bar').css('opacity','1');
 								}
 							);
 						});

@@ -10,14 +10,14 @@ header{
 	margin-right:auto; 
 }
 
-h1 {
+#toAnimate {
 	margin-top:100px;
 	line-height:80px;
 	font-family:'Titan One'; 
 	font-size:80px; 
 }
 
-h1 span {
+hgroup span {
 	color:white;
 }
 
@@ -42,12 +42,18 @@ section{
 }
 
 #head-bar{
+	font-family:'Titan One'; 
 	background: #4f85bb;
+	color: #4f85bb;
 	z-index:-1;
 	position:absolute;
-	padding:15px;
+	padding:0px 15px 15px 15px;
 	width:100%;
 	top:0px;
 	left:0px;
 	height:80px;
+	opacity:0;
+}
+
+.btn-group{
 }
