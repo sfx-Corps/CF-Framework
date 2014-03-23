@@ -1,5 +1,38 @@
 @import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,500|Covered+By+Your+Grace|Titan+One);
 
+.offset1{
+	margin-left:150px;
+}
+
+.offset2{
+	margin-left:300px;
+}
+
+.offset3{
+	margin-left:450px;
+}
+
+.offset4{
+	margin-left:600px;
+}
+
+.offset5{
+	margin-left:750px;
+}
+
+.offset6{
+	margin-left:950px;
+}
+
+.offset7{
+	margin-left:1100px;
+}
+
+.offset8{
+	margin-left:1250px;
+}
+
+
 body{
 	background: #4f85bb;
 }
@@ -55,5 +88,7 @@ section{
 	opacity:0;
 }
 
-.btn-group{
+#demo-drop-btn{
+	padding:22px 5px 22px 5px;
+	margin-top:-70px;
 }
