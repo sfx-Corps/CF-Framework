@@ -1,0 +1,29 @@
+
+#head-bar{
+	font-family:'Titan One'; 
+	background: #4f85bb;
+	color: #4f85bb;
+	z-index:-1;
+	position:absolute;
+	padding:0px 15px 15px 15px;
+	width:100%;
+	top:0px;
+	left:0px;
+	height:80px;
+	opacity:0;
+}
+
+#btn-group{
+	margin-top:-300px;
+	opacity:0;
+}
+
+#demo-drop-btn{
+	Font-weight:bold;
+	font-family: 'Alegreya Sans', sans-serif;
+	margin-top:-50px;
+}
+
+#favico{
+	width:100px;
+}

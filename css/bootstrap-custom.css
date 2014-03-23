@@ -1,35 +1,47 @@
 @import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,500|Covered+By+Your+Grace|Titan+One);
 
 .offset1{
-	margin-left:150px;
+	margin-left:100px;
 }
 
 .offset2{
-	margin-left:300px;
+	margin-left:200px;
 }
 
 .offset3{
-	margin-left:450px;
+	margin-left:300px;
 }
 
 .offset4{
-	margin-left:600px;
+	margin-left:400px;
 }
 
 .offset5{
-	margin-left:750px;
+	margin-left:500px;
 }
 
 .offset6{
-	margin-left:950px;
+	margin-left:600px;
 }
 
 .offset7{
-	margin-left:1100px;
+	margin-left:700px;
 }
 
 .offset8{
-	margin-left:1250px;
+	margin-left:800px;
+}
+
+.offset9{
+	margin-left:900px;
+}
+
+.offset10{
+	margin-left:1000px;
+}
+
+.offse11{
+	margin-left:1100px;
 }
 
 
@@ -63,10 +75,6 @@ section{
 	margin:100px auto auto auto;
 }
 
-#favico{
-	width:100px;
-}
-
 .redirect{
 	margin-left:80%;
 	box-shadow:1px 2px 3px rgb(50,50,50);
@@ -74,21 +82,10 @@ section{
 	font-family: 'Alegreya Sans', sans-serif;
 }
 
-#head-bar{
-	font-family:'Titan One'; 
-	background: #4f85bb;
-	color: #4f85bb;
-	z-index:-1;
-	position:absolute;
-	padding:0px 15px 15px 15px;
-	width:100%;
-	top:0px;
-	left:0px;
-	height:80px;
-	opacity:0;
-}
-
-#demo-drop-btn{
-	padding:22px 5px 22px 5px;
-	margin-top:-70px;
+.icon-user{
+	 background-image: (http://cdn.sstatic.net/stackoverflow/img/favicon.ico);
+     width: 16px;
+     height: 16px;
+     text-indent: -10000px; /* hides the text */
+     display: inline-block; 
 }

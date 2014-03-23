@@ -14,6 +14,7 @@ $('.redirect').click( function() {
 									$('body').css('background-color','white');
 									$('#head-bar').css('color','black');
 									$('#head-bar').css('opacity','1');
+									$('#btn-group').css('opacity','1');
 								}
 							);
 						});

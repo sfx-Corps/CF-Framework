@@ -1,0 +1,17 @@
+.dropdown-menu{ 
+		border-radius:0px 0px 0px 10px;
+}
+
+.dropdown-menu{ 
+		padding:5px; 
+}
+
+li:hover{background:none;}
+a:hover{background:none;}
+
+.dropdown-cool-head{ 
+		margin-right:10px;
+		font-weight:bold;
+		color:black;
+		font-size:15px; 
+}

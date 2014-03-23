@@ -1,0 +1,1 @@
+$('.icon-user').attr("src","./img/16px/user.png");
